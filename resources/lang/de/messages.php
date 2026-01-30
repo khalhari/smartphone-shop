@@ -1,0 +1,21 @@
+<?php
+return [
+    'home' => 'Startseite',
+    'products' => 'Produkte',
+    'categories' => 'Kategorien',
+    'search' => 'Suchen...',
+    'contact_whatsapp' => 'Kontakt via WhatsApp',
+    'price' => 'Preis',
+    'add_to_cart' => 'In den Warenkorb',
+    'product_code' => 'Produktcode',
+    'description' => 'Beschreibung',
+    'specifications' => 'Technische Daten',
+    'condition_new' => 'Neu',
+    'condition_used' => 'Gebraucht',
+    'condition_refurbished' => 'Generalüberholt',
+    'out_of_stock' => 'Nicht auf Lager',
+    'in_stock' => 'Auf Lager',
+    'latest_products' => 'Neueste Produkte',
+    'featured_products' => 'Empfohlene Produkte',
+    'related_products' => 'Ähnliche Produkte',
+];
