@@ -9,7 +9,7 @@ class SettingSeeder extends Seeder
     public function run(): void
     {
         $settings = [
-            ['key' => 'whatsapp_number', 'value' => '491234567890', 'type' => 'text'],
+            ['key' => 'whatsapp_number', 'value' => '491633617202', 'type' => 'text'],
             ['key' => 'shop_name_de', 'value' => 'SmartPhone Shop', 'type' => 'text'],
             ['key' => 'shop_name_ar', 'value' => 'متجر الهواتف الذكية', 'type' => 'text'],
             ['key' => 'contact_email', 'value' => 'info@smartphone-shop.de', 'type' => 'text'],

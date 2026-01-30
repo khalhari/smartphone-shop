@@ -60,7 +60,7 @@ class Product extends Model
 
     public function getWhatsappLinkAttribute()
     {
-        $phone = setting('whatsapp_number', '491234567890');
+        $phone = setting('whatsapp_number', '491633617202');
         $message = $this->generateWhatsappMessage();
         return "https://wa.me/{$phone}?text=" . urlencode($message);
     }
