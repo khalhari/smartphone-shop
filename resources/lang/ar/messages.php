@@ -1,0 +1,21 @@
+<?php
+return [
+    'home' => 'الرئيسية',
+    'products' => 'المنتجات',
+    'categories' => 'التصنيفات',
+    'search' => 'بحث...',
+    'contact_whatsapp' => 'تواصل عبر واتساب',
+    'price' => 'السعر',
+    'add_to_cart' => 'أضف للسلة',
+    'product_code' => 'كود المنتج',
+    'description' => 'الوصف',
+    'specifications' => 'المواصفات',
+    'condition_new' => 'جديد',
+    'condition_used' => 'مستعمل',
+    'condition_refurbished' => 'مجدد',
+    'out_of_stock' => 'غير متوفر',
+    'in_stock' => 'متوفر',
+    'latest_products' => 'أحدث المنتجات',
+    'featured_products' => 'منتجات مميزة',
+    'related_products' => 'منتجات مشابهة',
+];
